@@ -11,6 +11,9 @@
 -> When we first initialized our project the file was not being tracked by Git.
 -> In order to the file got tracked by Git we need to use the 'git add .' command.
 -> Saya coba buat PERUBAHAN/UPDATE PADA FILE INI
+-> PERUBAHAN 2
+-> PERUBAHAN 3
+-> PERUBAHAN 4
 
 
 
