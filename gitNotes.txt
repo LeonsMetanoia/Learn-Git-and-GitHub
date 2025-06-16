@@ -1,0 +1,16 @@
+-> This tutorial will help to understand what Git and Version Control are, basic Git Commands, use that features to boost our work efficiency, extend the features from Git using GitHub.
+-> Git is a version control system which lets us to track changes we make to our files over time.
+-> With Git we can make a copy of our file, make changes to that copy, and merge these changes to the original copy.
+-> Jadi contoh nyata nya saat kita lagi ngoding website dan kita gak suka sama navigation bar nya atau elemen tertentu dalam website yang lagi kita coding tersebut, nah kan ada momen dimana kita takut melakukan perubahan karena ada kemungkinan dia malah makin tidak teratur dan ada bug tertentu diluar control kita, oleh karena itu Git hadir untuk memastikan kita punya copy-an atau backupan dari file versi sebelumnya, nah nanti saat kita sudah merasa cocok dengan perubahan yang kita lakukan maka kita dapat melakukan merge hasil copyan perubahan tersebut ke file original.
+-> Perlu diketahui Git tidak hanya terbatas untuk source code files melainkan bisa kira gunakan untuk nge track perubahan versi text files, atau bahkan gambar.
+-> Saat sudah selesai instalasi Git kita bisa melakukan setting username dan email address kita yang dimana Git akan menggunakan informasi ini untuk mengidentifikasi siapa yang secara spesifik melakukan perubahan tersebut.
+-> GitHub is an online hosting service for Git Repositories.
+-> GitHub allow us to make any changes because we can access our project that are hosted on GitHub anywhere.
+-> We can download the project and make changes and push the latest version back to GitHub.
+-> The other awesome feature of GitHub is that we can collaborate woth developers from any location.
+-> When we first initialized our project the file was not being tracked by Git.
+-> In order to the file got tracked by Git we need to use the 'git add .' command.
+-> 
+
+
+
